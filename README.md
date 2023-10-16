@@ -1,0 +1,2 @@
+# ESPHome
+Custom ESPHome templates
